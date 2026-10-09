@@ -1,11 +1,4 @@
 # JioHotstar Downloader
-
-<p align="center">
-  <a href="https://github.com/arvind88765/hotstar-downloader/stargazers">
-    <img src="https://img.shields.io/github/stars/arvind88765/hotstar-downloader?style=for-the-badge&color=FFD700&logo=github" alt="Stars">
-  </a>
-  <a href="https://github.com/arvind88765/hotstar-downloader/network/members">
-    <img src="https://img.shields.io/github/forks/arvind88765/hotstar-downloader?style=for-the-badge&color=1f6feb&logo=github" alt="Forks">
   </a>
   <img src="https://img.shields.io/badge/python-3.9+-blue?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20mac-lightgrey?style=for-the-badge" alt="Platform">
@@ -20,17 +13,7 @@
 
 gui app to download jiohotstar content. works on both plain and DRM encrypted streams. picks up all audio languages, drops them in one mkv, handles widevine keys automatically if you have a wvd file.
 
-> disclaimer: personal use only. do not redistribute downloaded content. use at your own risk.
-
----
-
-## demo
-
-
-
-
-
-https://github.com/user-attachments/assets/7338c0f7-a1fc-4f72-b829-6018ca9ee1d8
+> disclaimer: personal use only. do not redistribute downloaded content. use at yo
 
 
 
